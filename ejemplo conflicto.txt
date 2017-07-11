@@ -1,2 +1,3 @@
 esto no genera conflicto
-esto si genera conflicto
+
+esto tampoco
