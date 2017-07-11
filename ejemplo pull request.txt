@@ -1,3 +1,1 @@
-esto no genera conflicto
-
-esto tampoco
+pull request 2do branch
